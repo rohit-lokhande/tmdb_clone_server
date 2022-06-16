@@ -1,0 +1,41 @@
+[
+    {
+      "id": 123,
+      "user_name": "1212",
+      "profile_url": "https://www.themoviedb.org/t/p/w64_and_h64_face/r1KY1E9EPR2YZWqovmslYMLBzjR.jpg",
+      "all_hits": {
+        "value": 1234,
+        "progress": 60
+      },
+      "week_hits": {
+        "value": 1234,
+        "progress": 60
+      }
+    },
+    {
+      "id": 2,
+      "user_name": "GenkiCocoa",
+      "profile_url": "https://www.themoviedb.org/t/p/w64_and_h64_face/xa1fENqRHvW2rZ757wVQW8p2dQF.jpg",
+      "all_hits": {
+        "value": 345,
+        "progress": 20
+      },
+      "week_hits": {
+        "value": 345,
+        "progress": 20
+      }
+    },
+    {
+      "id": 3,
+      "user_name": "heli5m",
+      "profile_url": "https://www.gravatar.com/avatar/3af6511cf44a709e6ae5b612903c846c.jpg?s=64",
+      "all_hits": {
+        "value": 374137,
+        "progress": 50
+      },
+      "week_hits": {
+        "value": 4698,
+        "progress": 30
+      }
+    }
+  ]
